@@ -1,6 +1,6 @@
 # Entropy Toolkit
 
-![entropy](https://user-images.githubusercontent.com/54115104/74149935-04b43100-4c1a-11ea-8bba-d2663b02184a.jpeg)
+<h3 align="center"><img src="https://user-images.githubusercontent.com/54115104/91619958-3f53a000-e997-11ea-8192-12dd9805762b.png" alt="logo" height="250px"></h3>
 
 <p align="center">
   <a href="http://entynetproject.simplesite.com/">
